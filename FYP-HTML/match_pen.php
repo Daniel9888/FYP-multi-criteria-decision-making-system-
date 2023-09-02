@@ -190,77 +190,7 @@ foreach($pens as $id) {
     $count++;
   }
 
-  // echo '<div class="row mt-2">';
-  // echo "<div class='card'>";
-  //   echo '<div class="col-md-3">';
-  //   echo '<div class="card product">';
-  //   echo '<img src="img/' . $id["name"] . '.jpeg" class="imgpensize" alt="...">';
-  //   echo '<div class="card-body">';
-  //   echo '<h5 class="card-title">'. $id["name"] . '</h5>';
-  //   echo '<p class="card-text"><strong>Brend:</strong> '. $id["brend"] . '</p>';
-  // echo '<p class="card-text"><strong>Nib:</strong> ' . $id["nib"] . '</p>';
-  // echo '<p class="card-text"><strong>Material:</strong> ' . $id["material"] . '</p>';
-  // echo '<p class="card-text"><strong>Writing Style:</strong> ' . $id["writing-style"] . '</p>';
-  // echo '<p class="card-text"><strong>Ink System:</strong> ' . $id["ink-system"] . '</p>';
-  // echo '<p class="card-text"><strong>Price:</strong> $' . $id["price"] . '</p>';
-  // echo '<a href="product.php?id=' . $id["id"] . '" class="btn btn-primary">Details</a>';
-  // echo '</div>';
-  // echo '</div>';
-  // echo '</div>';
-  // echo '</div>';
-  // echo '</div>';
-  // var_dump($pen["name"]);
 }
 
 
 
-// foreach ($pens as $rc => $value) {
-//   echo "<div class='card'>";
-//   echo '<div class="col-md-3">';
-//   echo '<div class="card product">';
-//   echo $name . "<br>";
-//   echo '<img src="img/' . $rc . '.jpeg" class="imgpensize" alt="...">';
-//   echo '<div class="card-body">';
-//   echo '<h5 class="card-title">'. $rc["name"] . '</h5>';
-//   echo '<p class="card-text"><strong>Brand:</strong> '. $rc["brand"] . '</p>';
-//   echo '<p class="card-text"><strong>Nib:</strong> ' . $rc["nib"] . '</p>';
-//   echo '<p class="card-text"><strong>Material:</strong> ' . $key["material"] . '</p>';
-//   echo '<p class="card-text"><strong>Writing Style:</strong> ' . $rc["writing-style"] . '</p>';
-//   echo '<p class="card-text"><strong>Ink System:</strong> ' . $rc["ink-system"] . '</p>';
-//   echo '<p class="card-text"><strong>Price:</strong> $' . $rc["price"] . '</p>';
-//   echo '<a href="product.php?id=' . $rc["id"] . '" class="btn btn-primary">Details</a>';
-//   echo '</div>';
-//   echo '</div>';
-//   echo '</div>';
-// }
-// // echo(var_dump($pens));
-// print($pens["name"]);
-// print($pens["brend"]);
-// print($pens["nib"]);
-// print($pens["material"]);
-// print($pens["writing-style"]);
-// print($pens["ink-system"]);
-// print($pens["price"]);  
-
-// foreach($pens as $pen) {
-//   var_dump($pen["name"]);
-// }
-
-
-  // echo "<div class='card'>";
-  // echo '<div class="col-md-3">';
-  // echo '<div class="card product">';
-  // echo '<img src="img/' . $pens["name"] . '.jpeg" class="imgpensize" alt="...">';
-  // echo '<div class="card-body">';
-  // echo '<h5 class="card-title">' . $pens["name"] . '</h5>';
-  // echo '<p class="card-text"><strong>Brand:</strong> ' . $pens["brend"] . '</p>';
-  // echo '<p class="card-text"><strong>Nib:</strong> ' . $pens["nib"] . '</p>';
-  // echo '<p class="card-text"><strong>Material:</strong> ' . $pens["material"] . '</p>';
-  // echo '<p class="card-text"><strong>Writing Style:</strong> ' . $pens["writing-style"] . '</p>';
-  // echo '<p class="card-text"><strong>Ink System:</strong> ' . $pens["ink-system"] . '</p>';
-  // echo '<p class="card-text"><strong>Price:</strong> $' . $pens["price"] . '</p>';
-  // echo '<a href="product.php?id=' . $pens["id"] . '" class="btn btn-primary">Details</a>';
-  // echo '</div>';
-  // echo '</div>';
-  // echo '</div>';
-// ?>
